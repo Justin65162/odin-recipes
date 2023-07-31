@@ -1,0 +1,16 @@
+* {
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: darkred;
+}
+ul {
+    text-align: center;
+    font-size: larger;
+    list-style-position: inside;
+}
