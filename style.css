@@ -1,4 +1,4 @@
-* {
+body {
     background-color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
@@ -8,9 +8,27 @@ h1 {
     text-align: center;
     font-size: xx-large;
     color: darkred;
+    width: 0 auto;
+    background-color: darkgoldenrod;
+    padding: 8px;
+}
+.list {
+    background-color: aqua;
+    width: 0 auto;
+    padding: 8px;
+
 }
 ul {
     text-align: center;
     font-size: larger;
+    list-style: square;
     list-style-position: inside;
+    padding: 8px;
+    margin-left: 20px;
+    margin-right: 20px;   
 }
+
+li {
+    margin-top: 10px;
+}
+
